@@ -1,4 +1,5 @@
-<h3 align='center'><samp><strong>Mr. Watcharapol Yotadee</strong>😄</samp></h3> 
+<h3 align='center'><samp><strong>Mr. Watcharapol Yotadee</strong>⚡</samp></h3> 
+<p align='center'> <samp>Computer Scientist | Software Architecture Specialist | Senior .NET & Cloud Engineer.</samp></p>
 
 
 <!--
