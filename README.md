@@ -10,11 +10,15 @@
 <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 <br>
-<h5 align="right"> ❤ I have a heart contact....</h5>
 </p>
 <hr>
 <h3>👨‍Educational Projects</h3>
 
+
+
+
+
+<h5 align="right"> ❤ I have a heart contact....</h5>
 
 
 
