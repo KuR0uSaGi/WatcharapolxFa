@@ -18,7 +18,7 @@
 <h3>👨‍Educational Projects</h3>
 <br>
 <img src="https://img.shields.io/badge/arduino%20-%2300979d.svg?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img src="https://sv1.picz.in.th/images/2020/10/02/O8zheq.png" alt="C++" border="0"> &nbsp;&nbsp;&nbsp;
+<img src="https://www.img.in.th/image/hRGJeT"/> &nbsp;&nbsp;&nbsp;
 
 
 
