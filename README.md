@@ -2,7 +2,7 @@
 <h3 align="left"> 💻 Computer Engineering.</h3>
 <p align='center'> <samp> I never stop improving myself. | I always want to go far from where I am.</samp></p>
 
-<h4> 😄 I'm currently learning ..🌱..</h4>
+<h3> 📔 I'm currently learning 🌱</h3>
 
 <p >
 <img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;  
