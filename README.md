@@ -1,5 +1,6 @@
-<h3 align='center'><samp>✨<strong>Mr. Watcharapol Yotadee</strong>⚡</samp></h3> 
-<p align='center'> <samp> I never stop improving myself. >| Computer Engineering |< I always want to go far from where I am.</samp></p>
+<h3 align='center'><samp>✨<strong>Mr. Watcharapol Yotadee</strong>⚡</samp></h3>
+<h3 align="right"> 💻 Computer Engineering.</h3>
+<p align='center'> <samp> I never stop improving myself. | I always want to go far from where I am.</samp></p>
 
 <h4> 😄 I'm currently learning ..🌱..</h4>
 
