@@ -15,10 +15,6 @@
 </p>
 </p>
 <hr>
-<h3>👨‍Educational Projects</h3>
-<br>
-<img src="https://img.shields.io/badge/arduino%20-%2300979d.svg?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img src="https://www.img.in.th/images/47f1fc232d3f2abc4f12e27ad2d44c71.png" width="128" height="31"/> &nbsp;&nbsp;&nbsp;
 
 
 
