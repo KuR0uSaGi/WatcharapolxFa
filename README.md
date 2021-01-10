@@ -2,9 +2,7 @@
 <h3 align="left"> 💻 Computer Engineering.</h3>
 <p align='center'> <samp> I never stop improving myself. | I always want to go far from where I am.</samp></p>
 <hr>
-<p align='center'> <samp>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WatcharapolxFa&layout=compact&theme=tokyonight)](https://github.com/WatcharapolxFa/github-readme-stats)
-</samp></p>
 <hr>
 <h5 align="right"> ❤ I have a heart contact....</h5>
 
