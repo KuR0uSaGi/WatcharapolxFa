@@ -2,9 +2,8 @@
 <h3 align="left"> 💻 Computer Engineering.</h3>
 <p align='center'> <samp> I never stop improving myself. | I always want to go far from where I am.</samp></p>
 <hr>
-[![WatcharapolxFa github stats](https://github-readme-stats.vercel.app/api?username=WatcharapolxFa&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WatcharapolxFar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![WatcharapolxFa github stats](https://github-readme-stats.vercel.app/api?username=WatcharapolxFa&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WatcharapolxFa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 <h5 align="right"> ❤ I have a heart contact....</h5>
