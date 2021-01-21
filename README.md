@@ -7,7 +7,7 @@
 
 <hr>
 <h3 align="left"> 🐸 Motto. </h3>
-<p align='center'> <samp> Success will not come without action. | I always want to go far from where I am.</samp></p>
+<p align='center'> <samp> Success will not come without action. | Tomorrow must be better.</samp></p>
 <h4 align="right"> ❤ I have a heart contact....</h4>
 
 
