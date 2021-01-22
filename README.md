@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WatcharapolxFa&layout=compact&theme=tokyonight)](https://github.com/WatcharapolxFa/github-readme-stats)
 
 <hr>
-<h3 align="left"> 🐸 Motto. </h3>
+<h3 align="left"> 🐸 Motto. 🐸 </h3>
 <p align='center'> <samp> Success will not come without action. | Tomorrow must be better.</samp></p>
 <hr>
 <h4 align="right"> ❤ I have a heart contact....</h4>
